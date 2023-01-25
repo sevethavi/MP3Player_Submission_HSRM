@@ -1,0 +1,15 @@
+.playlist-button {
+    -fx-background-color: transparent;
+    -fx-border-radius: none;
+    -fx-text-alignment: left;
+    -fx-min-width: 300px;
+    -fx-text-fill: white;
+    -fx-font-size: 20px;
+    -fx-font-weight: 700;
+    -fx-font-family: "Lucida Grande", Helvetica;
+}
+
+.playlist-button:hover {
+    -fx-background-color: #61b0a1;
+    -fx-text-fill: #fff;
+}

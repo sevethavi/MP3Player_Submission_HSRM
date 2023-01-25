@@ -1,0 +1,166 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+
+/*
+* Importiere Szenen CSS
+* ICH HASSE JAVAFX CSS ICH MÖCHTE DAS NIE WIEDER BENUTZEN - BITTE NÄCHSTES MAL WIEDER WEBANWENDUNG MIT NORMALEM CSS :-(
+*/
+@import "styles/playlistoverview.css";
+@import "styles/settings.css";
+@import "styles/player.css";
+
+/*
+* Importiere Komponenten CSS
+*/
+@import "styles/uicomponents/slider.css";
+@import "styles/uicomponents/menu.css";
+@import "styles/uicomponents/songBox.css";
+@import "styles/uicomponents/controls.css";
+
+.main-text {
+	-fx-alignment: center;
+	-fx-font-family: "Lucida Grande", Helvetica;
+	-fx-font-size: 22;
+}
+
+Text {
+	-fx-font-family: "Lucida Grande", Helvetica;
+	-fx-text-fill: white;
+}
+
+#controller{
+	-fx-alignment: center;
+	-fx-padding: 10;
+}
+
+.icon-button.active {
+	-fx-background-color: #29524A;
+}
+
+.icon-button.inactive{
+	visibility: hidden;
+}
+
+.round-button {
+	-fx-background-radius: 10px;
+	-fx-background-color: #040F0F;
+	-fx-text-fill: white;
+	-fx-font-size: 20px;
+	-fx-font-family: Helvetica;
+	-fx-min-width: 32;
+	-fx-min-height: 32;
+	-fx-background-size: 28 28;
+	-fx-background-position:center;
+	-fx-border-color: #3f3f40;
+	-fx-border-radius: 10px;
+}
+
+.round-button:hover {
+	-fx-background-color: #29524A;
+}
+
+.title {
+	-fx-font-size: 24px;
+	-fx-fill: white;
+	-fx-font-family: "HK Grotesk Wide", Helvetica;
+	-fx-text-alignment: center;
+}
+
+.container {
+	-fx-background-color: #061818;
+
+}
+
+.bottom-container {
+	-fx-background-color: #040F0F;
+	-fx-border-color: #818181;
+	-fx-border-style: solid none none none;
+}
+
+.center-container {
+	-fx-background-color: #29524A;
+	-fx-border-color: #818181;
+	-fx-border-style: none none none solid;
+}
+
+.center {
+	-fx-alignment: center;
+}
+
+.top-center {
+	-fx-alignment: top-center;
+}
+
+.left-center {
+	-fx-alignment: left-center;
+}
+
+.right-center {
+	-fx-alignment: right-center;
+}
+
+#playlistCenter {
+	-fx-alignment: center;
+}
+
+.icon-button {
+	-fx-background-color: none;
+	-fx-border-color: transparent;
+	-fx-min-width: 32;
+	-fx-min-height: 32;
+	-fx-background-size: 28 28;
+	-fx-background-position: center;
+}
+Button, Button:hover {
+	-fx-cursor: hand;
+}
+
+.full-width {
+	-fx-pref-width: 100%;
+}
+
+.icon-button:hover {
+	-fx-background-color: #29524A;
+}
+
+.skipButtonPrev{
+	-fx-background-image: url("icons/skipButtonPrev.png");
+}
+
+.playButton{
+	-fx-background-image: url("icons/playButton.png");
+}
+
+.playButtonBlack{
+	-fx-background-image: url("icons/playButtonBlack.png");
+}
+
+.skipButtonNext{
+	-fx-background-image: url("icons/skipButtonNext.png");
+}
+
+.backButton {
+	-fx-background-image: url("icons/backButton.png");
+}
+
+.pauseButton {
+	-fx-background-image: url("icons/pauseButton.png");
+}
+
+.volumeButton {
+	-fx-background-image: url("icons/volume.png");
+}
+
+
+.shuffleButton {
+	-fx-background-image: url("icons/shuffleButton.png");
+}
+
+.repeatButton {
+	-fx-background-image: url("icons/replayButton.png");
+}
+
+
+.musicBar {
+	-fx-content-display: block;
+}

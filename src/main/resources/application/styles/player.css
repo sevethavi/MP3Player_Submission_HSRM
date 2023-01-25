@@ -1,0 +1,23 @@
+.player .songbox-controls,
+.player .volslider-controls{
+    visibility: hidden;
+}
+.player {
+    -fx-text-fill: white;
+    -fx-font-weight: 700;
+    -fx-font-family: "Lucida Grande", Helvetica;
+}
+.player-cover {
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+}
+
+.player-songartist {
+    -fx-font-size: 16px;
+    -fx-text-fill: white;
+}
+
+.player-songname {
+    -fx-font-size: 20px;
+    -fx-text-fill: white;
+}

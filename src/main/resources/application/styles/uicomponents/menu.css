@@ -1,0 +1,14 @@
+.content-button {
+    -fx-min-width: 200px;
+    -fx-min-height: 33%;
+    -fx-background-color: #061818;
+    -fx-text-fill: white;
+    -fx-font-size: 18px;
+    -fx-border-radius: 0;
+    -fx-background-radius: 0;
+    -fx-font-family: "HK Grotesk Wide", Helvetica;
+}
+
+.content-button:hover {
+    -fx-background-color: #61b0a1;
+}

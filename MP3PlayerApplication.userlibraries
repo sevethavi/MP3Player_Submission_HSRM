@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: org.openjfx:javafx-controls:19-ea+7">
+    <archive path="/Users/timreinicke/.m2/repository/org/openjfx/javafx-controls/19-ea+7/javafx-controls-19-ea+7.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-controls:mac:19-ea+7">
+    <archive path="/Users/timreinicke/.m2/repository/org/openjfx/javafx-controls/19-ea+7/javafx-controls-19-ea+7-mac.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-graphics:19-ea+7">
+    <archive path="/Users/timreinicke/.m2/repository/org/openjfx/javafx-graphics/19-ea+7/javafx-graphics-19-ea+7.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-graphics:mac:19-ea+7">
+    <archive path="/Users/timreinicke/.m2/repository/org/openjfx/javafx-graphics/19-ea+7/javafx-graphics-19-ea+7-mac.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-base:19-ea+7">
+    <archive path="/Users/timreinicke/.m2/repository/org/openjfx/javafx-base/19-ea+7/javafx-base-19-ea+7.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-base:mac:19-ea+7">
+    <archive path="/Users/timreinicke/.m2/repository/org/openjfx/javafx-base/19-ea+7/javafx-base-19-ea+7-mac.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-fxml:19-ea+7">
+    <archive path="/Users/timreinicke/.m2/repository/org/openjfx/javafx-fxml/19-ea+7/javafx-fxml-19-ea+7.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-fxml:mac:19-ea+7">
+    <archive path="/Users/timreinicke/.m2/repository/org/openjfx/javafx-fxml/19-ea+7/javafx-fxml-19-ea+7-mac.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-api:5.8.2">
+    <archive path="/Users/timreinicke/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.2/junit-jupiter-api-5.8.2.jar" />
+  </library>
+  <library name="Maven: org.opentest4j:opentest4j:1.2.0">
+    <archive path="/Users/timreinicke/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-commons:1.8.2">
+    <archive path="/Users/timreinicke/.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar" />
+  </library>
+  <library name="Maven: org.apiguardian:apiguardian-api:1.1.2">
+    <archive path="/Users/timreinicke/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-engine:5.8.2">
+    <archive path="/Users/timreinicke/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-engine:1.8.2">
+    <archive path="/Users/timreinicke/.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar" />
+  </library>
+  <library name="ProgUtil_StaticScanner">
+    <archive path="/Users/timreinicke/IdeaProjects/MP3PlayerApplication/ProgUtil_StaticScanner.jar" />
+    <archive path="/Users/timreinicke/IdeaProjects/MP3PlayerApplication/mp3playerUtil.jar" />
+    <archive path="/Users/timreinicke/IdeaProjects/MP3PlayerApplication/mp3agic.jar" />
+    <archive path="/Users/timreinicke/IdeaProjects/MP3PlayerApplication/eibo_simpleminim_new.jar" />
+    <archive path="/Users/timreinicke/IdeaProjects/MP3PlayerApplication/minim_library/minim.jar" />
+    <archive path="/Users/timreinicke/IdeaProjects/MP3PlayerApplication/minim_library/jl1.0.1.jar" />
+    <archive path="/Users/timreinicke/IdeaProjects/MP3PlayerApplication/minim_library/jsminim.jar" />
+    <archive path="/Users/timreinicke/IdeaProjects/MP3PlayerApplication/minim_library/mp3spi1.9.5.jar" />
+    <archive path="/Users/timreinicke/IdeaProjects/MP3PlayerApplication/minim_library/tritonus_aos.jar" />
+    <archive path="/Users/timreinicke/IdeaProjects/MP3PlayerApplication/minim_library/tritonus_share.jar" />
+  </library>
+  <library name="ProgUtil_StaticScanner (2)">
+    <archive path="/Users/timreinicke/IdeaProjects/MP3PlayerApplication/ProgUtil_StaticScanner.jar" />
+  </library>
+  <library name="mp3playerUtil">
+    <archive path="/Users/timreinicke/IdeaProjects/MP3PlayerApplication/mp3playerUtil.jar" />
+  </library>
+  <library name="mp3agic">
+    <archive path="/Users/timreinicke/IdeaProjects/MP3PlayerApplication/mp3agic.jar" />
+  </library>
+  <library name="eibo_simpleminim_new">
+    <archive path="/Users/timreinicke/IdeaProjects/MP3PlayerApplication/eibo_simpleminim_new.jar" />
+  </library>
+  <library name="minim_library">
+    <archive path="/Users/timreinicke/IdeaProjects/MP3PlayerApplication/minim_library/minim.jar" />
+    <archive path="/Users/timreinicke/IdeaProjects/MP3PlayerApplication/minim_library/jl1.0.1.jar" />
+    <archive path="/Users/timreinicke/IdeaProjects/MP3PlayerApplication/minim_library/jsminim.jar" />
+    <archive path="/Users/timreinicke/IdeaProjects/MP3PlayerApplication/minim_library/mp3spi1.9.5.jar" />
+    <archive path="/Users/timreinicke/IdeaProjects/MP3PlayerApplication/minim_library/tritonus_aos.jar" />
+    <archive path="/Users/timreinicke/IdeaProjects/MP3PlayerApplication/minim_library/tritonus_share.jar" />
+  </library>
+</eclipse-userlibraries>
+

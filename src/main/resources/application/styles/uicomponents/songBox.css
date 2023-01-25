@@ -1,0 +1,13 @@
+.songbox {
+    -fx-font-family: "Lucida Grande", Helvetica;
+    -fx-text-fill: white;
+    -fx-font-weight: normal;
+}
+
+.songbox-artist {
+
+}
+
+.songbox-songname {
+    -fx-font-weight: bold;
+}

@@ -1,0 +1,21 @@
+.settings {
+    -fx-font-family: "Myriad Pro", Helvetica;
+    -fx-font-size: 18;
+    -fx-font-weight: lighter;
+    -fx-text-fill: white;
+}
+
+.settings-label {
+    -fx-font-size: 18;
+}
+
+.settings-field {
+    -fx-background-color: #29524A;
+    -fx-border-color: white;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+}
+
+.settings-button {
+    -fx-background-color: #29524A;
+}
